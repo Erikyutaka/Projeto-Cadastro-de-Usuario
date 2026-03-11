@@ -1,4 +1,4 @@
-# Sistema-de-Cadastro-de-Usuário
+# Projeto-Cadastro-de-Usuário
 
 Projeto desenvolvido em Python utilizando banco de dados SQL (SQLite).
 
